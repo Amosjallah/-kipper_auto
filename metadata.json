@@ -1,0 +1,6 @@
+{
+  "name": "$KIPPER AUTO$",
+  "description": "Premier car dealership and vehicle rental service. Buy, sell, or rent inspected cars with $KIPPER AUTO$. Call +233256853935.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
